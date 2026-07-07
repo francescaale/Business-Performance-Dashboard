@@ -69,8 +69,3 @@ The dataset contains historical online retail transactions, including:
 - Customer Analytics
 - Power BI Dashboard Development
 - Business Storytelling
-
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
