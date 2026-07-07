@@ -30,7 +30,7 @@ The objective was to analyze an online retail sales dataset to identify revenue 
 
 ## Dataset
 
-**Dataset:** Online Retail Dataset
+**Dataset:** Online Retail Dataset - https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset?resource=download
 
 The dataset contains historical online retail transactions, including:
 
